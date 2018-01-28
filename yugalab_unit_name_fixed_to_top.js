@@ -2,7 +2,7 @@
 // @name         Yugalab unit name fixed to top.
 // @namespace    http://yugalab.sakura.ne.jp/archives/mrstunit/
 // @version      0.1
-// @description  ユガラボ様のユニット個別ページでユニット名とスペックを同時に見るためのスクリプト
+// @description  ユガラボ様のユニット個別ページでユニット名とスペックを同時に見るためのChrome/Tampermonkeyユーザースクリプト
 // @author       @rakousan / rakou1986
 // @match        http://yugalab.sakura.ne.jp/archives/mrstunit/*
 // @grant        none
